@@ -1,16 +1,19 @@
-### Hi there 👋
+# Daniele @xCloudx8
+Hi, I'm Daniele I'm a data engineer in love for every new technology from new programming code to new tools. Spcialized in analyzing and integrating from various sources different kind of data.
 
-<!--
-**xCloudx8/xCloudx8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## How I work
+I try to be precise, clean and trying following the KISS culture.
 
-Here are some ideas to get you started:
+## 📫  Get in touch
+- Twitter: https://twitter.com/xCloudx8
+- Personal site: https://xCloudx8.github.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Ask me about
+- How to integrate data
+- Which programming language is best for task
+- Which database should i use 
+
+##  ⚡ Fun fact
+- Drummer 🥁
+- Runner 🏃
+- Gamer 🎮
