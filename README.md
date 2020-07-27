@@ -14,6 +14,7 @@ I try to be precise, clean and trying following the KISS culture.
 - Which database should i use 
 
 ##  ⚡ Fun fact
+- Data engineer 👨‍💻
 - Drummer 🥁
 - Runner 🏃
 - Gamer 🎮
