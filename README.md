@@ -1,5 +1,5 @@
 # Daniele @xCloudx8
-[![](https://img.shields.io/badge/OS-Debian%20Testing-red)](https://www.debian.org/)
+[![](https://img.shields.io/badge/OS-Ubuntu-red)](https://www.ubuntu.com/)
 [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=red)](https://developer.mozilla.org/it/docs/Web/JavaScript)
 [![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=red)](https://code.visualstudio.com/)
 
