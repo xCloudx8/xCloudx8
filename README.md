@@ -1,8 +1,5 @@
 # Daniele @xCloudx8
 
-
-[![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=red)](https://developer.mozilla.org/it/docs/Web/JavaScript)
-[![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=red)](https://code.visualstudio.com/)
 [![](https://badgen.net/static/OS/Ubuntu/orange?icon=Github)](https://www.ubuntu.com)
 
 [![](https://img.shields.io/badge/-Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=red)](https://twitter.com/xCloudx8)
